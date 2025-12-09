@@ -11,4 +11,4 @@ Descarga el instrumento completo aquí:
 
 **Daniel García Ramírez**  
 Especialista en Capacitación & eLearning  
-LinkedIn: https://linkedin.com/in/tu-perfil
+Portafolio: https://sites.google.com/view/daniel-garcia-ramirez/p%C3%A1gina-principal?authuser=0)

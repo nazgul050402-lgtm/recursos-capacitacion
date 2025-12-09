@@ -5,7 +5,7 @@ Bienvenido(a) a mi biblioteca de recursos gratuitos sobre capacitación, diseño
 ## 📘 Evaluación VARK – Estilos de Aprendizaje
 Descarga el instrumento completo aquí:
 
-👉 [Descargar Evaluación VARK (PDF)](https://github.com/tuusuario/recursos-capacitacion/raw/main/Evaluacion_VARK.pdf)
+👉 [Descargar Evaluación VARK (PDF)] https://raw.githubusercontent.com/nazgul050402-lgtm/recursos-capacitacion/037f8ee71f2d4e4c5f3038375fe6cb7ed6de18fe/Evaluacion-VARK-de-Estilos-de-Aprendizaje.pdf
 
 ---
 
